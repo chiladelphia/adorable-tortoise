@@ -1,5 +1,5 @@
 ---
-title: 'Home '
+title: Home (just chillio)
 sections:
   - type: hero_section
     title: 'Hi, I’m Chillio. I help my clients succeed online and IRL.'
