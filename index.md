@@ -9,7 +9,7 @@ sections:
     actions:
       - label: Contact Me
         url: /contact
-        style: primary
+        style: secondary
     image: images/IMG_7378.jpg
     image_alt: A smiling white man with funny glasses
     media_position: right
