@@ -4,13 +4,13 @@ sections:
   - type: hero_section
     title: 'Hi, I’m Chillio. I help my clients succeed online and IRL.'
     subtitle: >-
-      I will handle your web stuff, social media things
-      and even digital advertisements for you, at an "affordable" price.
+      I will handle your web stuff, social media things and even digital
+      advertisements for you, at an "affordable" price.
     actions:
       - label: Contact Me
         url: /contact
         style: primary
-    image: images/hero.png
+    image: images/IMG_7378.jpg
     image_alt: A smiling white man with funny glasses
     media_position: right
     media_width: fifty
@@ -126,8 +126,8 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: >-
-          Chillio really understands who our customers are and what tone of voice
-          to use when communicating with them.
+          Chillio really understands who our customers are and what tone of
+          voice to use when communicating with them.
 
 
           **Miles Tone,** *CEO, Studio*
