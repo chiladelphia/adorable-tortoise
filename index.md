@@ -117,7 +117,7 @@ sections:
     subtitle: What My Clients Say
     grid_items:
       - content: >-
-          Alyvia is an amazing content writer. She helped us produce microcopy
+          Chillio is an amazing content writer. She helped us produce microcopy
           for our apps in all levels of user touchpoints.
 
 
@@ -126,7 +126,7 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: >-
-          Alyvia really understands who our customers are and what tone of voice
+          Chillio really understands who our customers are and what tone of voice
           to use when communicating with them.
 
 
@@ -135,7 +135,7 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: >-
-          Working with Alyvia was great because she was well versed in all of
+          Working with Chillio was great because she was well versed in all of
           our tools and applications, and was able to manage our store and
           campaigns without any technical glitches.
 
