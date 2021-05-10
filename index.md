@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: 'Hi, I’m Chillio. I help my clients succeed online and IRL.'
     subtitle: >-
-      I will handle your web stuff, social media accounts
+      I will handle your web stuff, social media things
       and digital advertisements for you, at an affordable price.
     actions:
       - label: Contact Me
