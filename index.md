@@ -11,7 +11,7 @@ sections:
         url: /contact
         style: primary
     image: images/hero.png
-    image_alt: A smiling woman
+    image_alt: A smiling white man with funny glasses
     media_position: right
     media_width: fifty
     align: left
