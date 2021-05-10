@@ -1,17 +1,17 @@
 ---
-title: Home
+title: Home (just chillio)
 sections:
   - type: hero_section
-    title: 'Hi, I’m Alyvia. I help my clients succeed online.'
+    title: 'Hi, I’m Chillio. I help my clients succeed online and IRL.'
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      I handle your web stuff, social media things and even use the internet for
+      you, at an "affordable" price.
     actions:
       - label: Contact Me
         url: /contact
-        style: primary
-    image: images/hero.png
-    image_alt: A smiling woman
+        style: secondary
+    image: images/IMG_7378.jpg
+    image_alt: A smiling white man with funny glasses
     media_position: right
     media_width: fifty
     align: left
@@ -21,7 +21,7 @@ sections:
     background_image: images/watercolor.png
     background_image_repeat: repeat
     background_image_size: contain
-    background_image_opacity: 8
+    background_image_opacity: 2
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
@@ -117,7 +117,7 @@ sections:
     subtitle: What My Clients Say
     grid_items:
       - content: >-
-          Alyvia is an amazing content writer. She helped us produce microcopy
+          Chillio is an amazing content writer. She helped us produce microcopy
           for our apps in all levels of user touchpoints.
 
 
@@ -126,8 +126,8 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: >-
-          Alyvia really understands who our customers are and what tone of voice
-          to use when communicating with them.
+          Chillio really understands who our customers are and what tone of
+          voice to use when communicating with them.
 
 
           **Miles Tone,** *CEO, Studio*
@@ -135,7 +135,7 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: >-
-          Working with Alyvia was great because she was well versed in all of
+          Working with Chillio was great because she was well versed in all of
           our tools and applications, and was able to manage our store and
           campaigns without any technical glitches.
 

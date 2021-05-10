@@ -105,3 +105,4 @@ exclude:
   - README.md
   - netlify.toml
   - stackbit-build.sh
+domain: 'https://adorable-tortoise-96514.netlify.app'
